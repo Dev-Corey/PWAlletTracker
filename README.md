@@ -25,7 +25,7 @@
 
   ## [Installation](#table-of-contents)
 
-  Clone this [repository]() insuring that all dependencies are met use `npm start` to initiate the application and navigate to `localhost:3001` to use the PWAlletTracker.
+  Clone this [repository](https://github.com/cboensch6505/PWAlletTracker) insuring that all dependencies are met use `npm start` to initiate the application and navigate to `localhost:3001` to use the PWAlletTracker.
 
   ## [Usage](#table-of-contents)
 
