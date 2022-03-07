@@ -1,4 +1,4 @@
-  # PWAlletTracker (PWA wallet-tracker)
+  # PWAlletTracker (PWA wallet-tracker OR P WAllet Tracker)
   
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
