@@ -20,6 +20,8 @@
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
+  
+  ![PWAlletTrackerScreenGrab](./img/PWAlletTrackerCapture.PNG)
 
   This application will allow you to keep track of your WITHDRAWALS and DEPOSITS with or without a data/internet connection
 
